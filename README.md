@@ -1,6 +1,6 @@
 # RepeatingXOR
 
-TODO: Write a gem description
+Simple gem for encrypting and decrypting repeating XOR
 
 ## Installation
 
